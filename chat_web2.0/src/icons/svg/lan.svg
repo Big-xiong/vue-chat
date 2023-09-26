@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>menu_ic_language</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设置" transform="translate(-30.000000, -494.000000)">
+            <g id="3" transform="translate(0.000000, 464.000000)">
+                <g id="ic" transform="translate(30.000000, 30.000000)">
+                    <rect id="矩形" fill="#EAEAEA" opacity="0" x="0" y="0" width="48" height="48"></rect>
+                    <rect id="矩形" fill="#6ECC94" x="5" y="22" width="38" height="3"></rect>
+                    <circle id="椭圆形" stroke="#5082F4" stroke-width="3" cx="24.5" cy="23.5" r="19"></circle>
+                    <ellipse id="椭圆形" stroke="#5082F4" stroke-width="3" cx="24.5" cy="23.5" rx="7.725" ry="19"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

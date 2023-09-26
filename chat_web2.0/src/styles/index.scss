@@ -1,0 +1,192 @@
+@import './variables.scss';
+@import './mixin.scss';
+@import './transition.scss';
+@import './element-ui.scss';
+@import './sidebar.scss';
+@import './custom.scss';
+@import './iconfont.css';
+
+@font-face{
+  font-family: Mulish;
+  src: url("../assets/font/Mulish.ttf");
+}
+
+body {
+    height: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-family: 'PingFang SC', 'Microsoft YaHei', 'SimSun', Arial, sans-serif;
+}
+
+* {
+    -webkit-user-select: text;
+}
+
+label {
+    // font-weight: 700;
+}
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+#app {
+    height: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h4,
+h5 {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+body {
+    background-color: #ffffff;
+    color: #72798c;
+    text-align: left;
+    font-size: 14px;
+}
+
+select {
+    font-size: 12px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+fieldset,
+img {
+    border: none;
+}
+
+fieldset {
+    margin: 0;
+    padding: 0;
+}
+
+fieldset p {
+    margin: 0;
+    padding: 0008px;
+}
+
+legend {
+    display: none;
+}
+
+address,
+caption,
+em,
+strong,
+th,
+i {
+    font-style: normal;
+    font-weight: 400;
+}
+
+table caption {
+    margin-left: -1px;
+}
+
+hr {
+    border-bottom: 1pxsolid#FFFFFF;
+    border-top: 1pxsolid#E4E4E4;
+    border-width: 1px0;
+    clear: both;
+    height: 2px;
+    margin: 5px0;
+    overflow: hidden;
+}
+
+ol,
+ul,
+li {
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+}
+
+caption,
+th {
+    text-align: left;
+}
+
+q:before,
+q:after,
+blockquote:before,
+blockquote:after {
+    content: ””;
+}
+
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+div:focus {
+    outline: none;
+}
+
+.clearfix {
+    &:after {
+        visibility: hidden;
+        display: block;
+        font-size: 0;
+        content: " ";
+        clear: both;
+        height: 0;
+    }
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgba(50, 50, 50, .25);
+    border: 2px solid transparent;
+    border-radius: 10px;
+    background-clip: padding-box;
+}
+
+::-webkit-scrollbar-track {
+    background-color: rgba(50, 50, 50, .05);
+}
+
+// main-container global css
+.app-container {
+    padding: 20px;
+}
+
+.filter-container {
+    padding-bottom: 10px;
+
+    .filter-item {
+        display: inline-block;
+        vertical-align: middle;
+        margin-bottom: 10px;
+    }
+
+    .el-button {
+        background: var(--filter-button-bg) !important;
+        border: 0;
+    }
+}

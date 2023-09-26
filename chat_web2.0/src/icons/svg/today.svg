@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>home_banner_ic_today</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-644.000000, -170.000000)">
+            <g id="分组-5" transform="translate(270.000000, 120.000000)">
+                <g id="home_banner_ic_today" transform="translate(374.000000, 50.000000)">
+                    <rect id="矩形" opacity="0.2265625" fill-rule="nonzero" x="0" y="0" width="40" height="40"></rect>
+                    <rect id="矩形" fill="#FFFFFF" fill-rule="nonzero" x="11" y="4" width="2" height="6"></rect>
+                    <path d="M15.0104076,22.2175144 L25.0104076,22.2175144 L25.0104076,24.2175144 L15.0104076,24.2175144 L13.0104076,24.2175144 L13.0104076,17.2175144 L15.0104076,17.2175144 L15.0104076,22.2175144 Z" id="合并形状" fill="#FFFFFF" fill-rule="nonzero" opacity="0.5" transform="translate(19.010408, 20.717514) rotate(-45.000000) translate(-19.010408, -20.717514) "></path>
+                    <rect id="矩形-copy-13" fill="#FFFFFF" fill-rule="nonzero" x="25" y="4" width="2" height="6"></rect>
+                    <g id="分组-44" transform="translate(6.000000, 8.000000)">
+                        <path d="M2,-1 L24,-1 C25.6568542,-1 27,0.343145751 27,2 L27,23 C27,24.6568542 25.6568542,26 24,26 L2,26 C0.343145751,26 -1,24.6568542 -1,23 L-1,2 C-1,0.343145751 0.343145751,-1 2,-1 Z" id="矩形" stroke="#FFFFFF" stroke-width="2"></path>
+                        <rect id="矩形" fill="#FFFFFF" fill-rule="nonzero" x="0" y="4" width="27" height="2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

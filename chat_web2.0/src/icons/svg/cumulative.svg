@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>home_banner_ic_cumulative</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-383.000000, -170.000000)">
+            <g id="分组-5" transform="translate(270.000000, 120.000000)">
+                <g id="home_banner_ic_cumulative" transform="translate(113.000000, 50.000000)">
+                    <rect id="矩形" fill="#D8D8D8" fill-rule="nonzero" opacity="0" x="0" y="0" width="40" height="40"></rect>
+                    <g id="分组-44" transform="translate(6.000000, 9.000000)">
+                        <path d="M2,-1 L24,-1 C25.6568542,-1 27,0.343145751 27,2 L27,18 C27,19.6568542 25.6568542,21 24,21 L2,21 C0.343145751,21 -1,19.6568542 -1,18 L-1,2 C-1,0.343145751 0.343145751,-1 2,-1 Z" id="矩形" stroke="#FFFFFF" stroke-width="2"></path>
+                        <path d="M14,26 L20,26 L20,28 L6,28 L6,26 L12,26 L12,22 L14,22 L14,26 Z" id="合并形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <path d="M4,13.0039775 C10.7460317,13.1777186 16.4126984,10.5097261 21,5" id="路径-5" stroke="#FFFFFF" stroke-width="2" opacity="0.5" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

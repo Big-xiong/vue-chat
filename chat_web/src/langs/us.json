@@ -1,0 +1,453 @@
+{
+    "websiteTitle": "AIChat",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "goHome": "go to the official website",
+    "immediateRegister": "Register Now",
+    "tenantSite": {
+        "title": "Tips",
+        "info": "It is recommended to use the computer login system, and the login address is:",
+        "copy": "copy",
+        "button": [
+            "cancel",
+            "confirm"
+        ]
+    },
+    "menu": {
+        "about": "About",
+        "home": "Home",
+        "price": "Price",
+        "download": "Download",
+        "buy": "Buy now",
+        "contact": "Contact",
+        "tutorial": "Customer Service Tutorial"
+    },
+    "lang": {
+        "cn": "Chinese",
+        "us": "English",
+        "vi": "Vietnamese",
+        "th": "Thai"
+    },
+    "index": {
+        "banner": [
+            {
+                "title": "Aiqia customer service",
+                "subTitle1": "New generation intelligent customer service system",
+                "tips1": "Focus on overseas, global deployment, serve many overseas enterprises, and gain unanimous praise!",
+                "tips2": "Bring you: convenient, safe, efficient and stable use experience!",
+                "btn": "Free experience"
+            },
+            {
+                "title": "All round ultimate experience",
+                "subTitle1": "Multi platform integrated management, efficient and intelligent AI customer service, extreme user experience, and minimalist interactive settings",
+                "tips1": "On the premise of meeting the multi-functional layout of customer service, we will try our best to reduce user learning costs.",
+                "tips2": "Provide an efficient and simple experience!",
+                "btn": "Free experience"
+            },
+            {
+                "title": "Security and stability are our purposes",
+                "subTitle1": "We have a special CDN team to ensure the safety and stability of the system",
+                "tips1": "Stable operation",
+                "unit": "hour",
+                "btn": "Free experience"
+            },
+            {
+                "title": "Internationalization, global layout",
+                "subTitle1": "Aiqia customer service system supports multi languages and global communication is barrier free!",
+                "btn": "Free experience"
+            }
+        ],
+        "feature": {
+            "buildInfo": "Ultimate function / ultimate experience",
+            "buildDesc": "The new generation of customer service software, online customer service in different languages to help enterprises solve communication problems, the system provides a variety of reception modes. Common words, quick picture transmission, quick reply, message reminder, quick response to customer inquiries! Support system sorting, visitor priority assignment, 7 * 24 hours online robot customer service, automatic reception of intelligent customer service, and assist customer service transformation",
+            "simpleInfo": "Consolidation simple / rapid deployment",
+            "simpleDesc": "You only need a few simple steps to make your website have customer service function and provide the best service for your members. The system integrates multiple website platforms, which can distribute management at the same time, improve efficiency and reduce costs.",
+            "privateInfo": "Focus on overseas / safety and stability",
+            "privateDesc": "The proprietary CDN team operates independently and adopts high-level CDN. More than 10 defense nodes around the world realize distributed defense, providing protection for your business against malicious attacks and making it operate safely and stably. Aicha has served many enterprises and has deep cooperation to help them grow!"
+        },
+        "tip": {
+            "info": "Using Aicha can make your enterprise get twice the result with half the effort",
+            "desc": "Aicha customer service solution provides a complete customer service cloud product solution. Enterprises can choose the most appropriate way to access Aicha according to their own enterprise size, so that enterprises can be more efficient"
+        },
+        "funcDetail": {
+            "chatInfo": "Perfect customer service reception experience",
+            "chatDesc1": "Customer service supports mobile terminal /app/pc terminal operation, sending messages quickly and stably, and customer service can connect to multiple platforms at the same time. The dialog supports the uploading of various files, pictures and videos, quick screenshots, and the sending of quick words and quick picture expressions. Support conversational forms such as transfer, group chat and technical support. Multiple language pages can be selected to support night and day mode conversion.",
+            "chatDesc2": "Pictures can be added to the message, and screenshots can be pasted and sent. On the mobile phone, customers can take photos in real time and send them to customer service. When using Aicha customer service, customer service can directly send text and graphic messages to customer service.",
+            "manageInfo": "AI technology intelligent customer service",
+            "manageDesc1": "Aicha customer service integrates the latest intelligent customer service system.",
+            "manageDesc2": "A large number of samples, machine learning, intelligent dialogue system, automatic answer customer service system, based on keyword calculation, push the most accurate reply, robot customer service intelligent capture messages, obtain a large number of reply samples, and build an accurate dialogue model.",
+            "reportInfo": "Powerful management function",
+            "reportDesc1": "Aicha customer service background management supports super administrators to perform various operations such as customer service grouping, customer service allocation, customer service quality inspection, customer service data query, historical dialog query and customer service settings.",
+            "reportDesc2": "The customer service workbench enters the customer service operation, information isolation, and data security.",
+            "reportDesc3": "Overall rating and reception evaluation",
+            "reportDesc4": "Visitor geographical statistics, convenient and efficient to help enterprises conduct customer information portrait and user analysis",
+            "dataInfo": "Data security and stable operation",
+            "dataDesc1": "The professional team manages data security and ensures the stable work of enterprise customer service.",
+            "dataDesc2": "Google secondary authentication login can be enabled to improve account security.",
+            "dataDesc3": "The management and customer service login separately to avoid the loss of customer information.",
+            "dataDesc4": "Blacklist management to avoid abnormal information.",
+            "dataDesc5": "The whole use or trial process is confidential, and there is no third-party program.",
+            "tranInfo1": "Perfect data analysis",
+            "tranInfo2": "Visitors become customers, and transformation is more efficient",
+            "tranDesc1": "Intelligent customer service comprehensively analyzes page visits, visits, conversations, messages, etc.",
+            "tranDesc2": "Grasp the working data of intelligent customer service in real time and quantify the employees' business ability",
+            "tranDesc3": "Master the visitor region and visitor information, and improve the customer conversion rate."
+        },
+        "descContent": {
+            "title": "Aiqia customer service is looking forward to cooperating with you",
+            "label1": "Accumulative service enterprise",
+            "label2": "Cumulative number of customer service",
+            "label3": "Cumulative number of conversations"
+        },
+        "exper": {
+            "title": "Try it immediately and feel efficient",
+            "subTitle": "Bid farewell to inefficient collaboration and make customer service work more efficient",
+            "jkty": "Try now",
+            "ckjg": "View price"
+        }
+    },
+    "about": {
+        "header": {
+            "title": "About AIChat",
+            "text1": "Open the era of intelligent customer service",
+            "text2": "International global layout, help your enterprise take off!"
+        },
+        "features": {
+            "title1": "Technical Team",
+            "desc1": "AIChat is a team which is owning multi technical staff, with high researching power,contains ex-google ex-apple first class talented staff in th world.",
+            "title2": "Best CS System",
+            "desc2": "Best CS System，currently in system using and CS management is outstanding, may be a global-orenited excellent solution .",
+            "title3": "Stable Culture",
+            "desc3": "AICaht Team has fully service staff in presale and after sale, we promote customer first ,experience first willings,we aim to become always outstanding in CS products."
+        }
+    },
+    "price": {
+        "title": "Aichat customer service system",
+        "slogan": "Making Dreams of your company",
+        "edition": "Overseas Enterprise Edition",
+        "perYear": "/year",
+        "twoYear": "/2 year",
+        "method": "Multiple methods for plugging",
+        "kb": "Robot Knowledge Base",
+        "multiple": "Unified management of multiple merchants and multiple seats",
+        "custom": "Custom purchase function",
+        "quick": "Simple and fast operation",
+        "safe": "Focus on overseas security and stability",
+        "onekey": "Official Site Announcement in one key",
+        "method2": "More Flexible using AIChat",
+        "immdiatePlugin": "Do It Now",
+        "edition1": "Luxury flagship",
+        "all": "Development of all functions",
+        "desc": "No seats, no platforms, no restrictions",
+        "allList": "Function List",
+        "functions": [
+            {
+                "title": "CS Workstation, multiple CS",
+                "desc": "Admin Account support CS workstation，CS could chat with customers in one key."
+            },
+            {
+                "title": "CS Grouping，support huge team ",
+                "desc": "AIChat providing CS grouping in one key for admin using to manage huge team."
+            },
+            {
+                "title": "Robot KB , increasing chat database",
+                "desc": "Robot Knowledge Base is helping CS to reply and communicate effectively."
+            },
+            {
+                "title": "Common reply, improve chat speed",
+                "desc": "Effective common reply, making chat process more accurate and effective."
+            },
+            {
+                "title": "Chat and messaging,fully info lifecycle",
+                "desc": "AIChat supporting chat and message management, making the process of visitors info and messaging more accurate and effective."
+            },
+            {
+                "title": "FAQ Extensions, One Key Improvement ",
+                "desc": "Providing FAQ optimization and backend editing, official site refreshing, one key optimization"
+            },
+            {
+                "title": "Area stat. & Vistotr Imaging",
+                "desc": "AIChat supporting massive visitor stat.,managing vistor imaging effectively and optimize your operating."
+            },
+            {
+                "title": "Blacklist,Vistor more healthy",
+                "desc": "AIChat contains strong blacklist system,managing abnormal vistor effectively and keep data and info in safety."
+            }
+        ]
+    },
+    "contact": {
+        "contactus": "Contact US",
+        "text1": "Dear customers, you can contact us through the following ways, and we will serve you with sincere investment and solid technology.",
+        "text2": ""
+    },
+    "registerObj": {
+        "register": "Register AIChat",
+        "submitInfo": "Submit Info may use AIChat",
+        "selectArea": "Select Server Region",
+        "domestic": "Domestic",
+        "foriegn": "Foriegn",
+        "enterprise": "Enterprise Name",
+        "placeholderE": "Please input enterprise name",
+        "placeholderM": "Please input login e-mail",
+        "placeholderP": "Please input login password",
+        "placeholderV": "Please input right code",
+        "loginMail": "Login e-Mail",
+        "password": "password",
+        "vcode": "verification code",
+        "slogan": "Register now &enjoy ",
+        "footerBtn": "You already have an account, log in"
+    },
+    "resetPassword": {
+        "title": "reset password",
+        "desc": "Please fill in the login email and password to reset your password",
+        "btn": "reset password",
+        "btns": [
+            "Send verification code",
+            "Reacquire"
+        ],
+        "label": [
+            "mailbox",
+            "Verification Code",
+            "password",
+            "Duplicate password"
+        ],
+        "placeholder": [
+            "Please enter email address",
+            "Please enter the verification code",
+            "Please input a password",
+            "Please enter the password again"
+        ]
+    },
+    "retrievePassword": {
+        "title": "Forget password",
+        "desc": "Please fill in the login email and we will send a verification email",
+        "btn1": "return",
+        "btn2": "Send mail",
+        "btn3": "Contact customer service",
+        "label": [
+            "mailbox"
+        ],
+        "placeholder": [
+            "Please enter email address"
+        ]
+    },
+    "loginObj": {
+        "welcome": "Welcome back",
+        "business": "Business center",
+        "desk": "Customer service desk",
+        "desc": "Login to management",
+        "mail": "E-Mail",
+        "password": "Password",
+        "captcha": "Captcha",
+        "placeholderM": "Please input mail address",
+        "placeholderP": "Please input password",
+        "loginNow": "Login AIChat",
+        "regTeam": "register team",
+        "forgetPwd": "forgot password?"
+    },
+    "footer": {
+        "links": [
+            {
+                "title": "Our products",
+                "item1": "AIChat"
+            },
+            {
+                "title": "Company",
+                "item1": "About Us"
+            },
+            {
+                "title": "Supporting",
+                "item1": "FAQ"
+            },
+            {
+                "title": "Contact Us",
+                "item1": "contact information"
+            }
+        ]
+    },
+    "FAQInfo": {
+        "possible": "Questions you may need to know",
+        "here": "All questions about AIChat is here"
+    },
+    "faqObj": {
+        "title": "Questions you may need to know",
+        "text": "All the questions about Aicha are here"
+    },
+    "FAQ": [
+        {
+            "name": "Beginner",
+            "desc": "Simple question for newly buyer",
+            "question": [
+                {
+                    "name": "How to register？",
+                    "answer": [
+                        "Register Link：https://aichating.com/（Only admin，one company）",
+                        "Login Link：https://aichating.com/（admin and CS）",
+                        "Additionally,normal CS need not to register an acount， only need to add an account to workstation is enough."
+                    ]
+                },
+                {
+                    "name": "How to login？",
+                    "answer": [
+                        "Register Link：https://aichating.com/（Only admin，one company）",
+                        "Login Link：https://aichating.com/（admin and CS）",
+                        "Additionally,normal CS need not to register an acount， only need to add an account to workstation is enough."
+                    ]
+                },
+                {
+                    "name": "How to add an CS account",
+                    "answer": [
+                        "Register Link：https://aichating.com/（Only admin，one company）",
+                        "Login Link：https://aichating.com/（admin and CS）",
+                        "Additionally,normal CS need not to register an acount， only need to add an account to workstation is enough."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Workstation related",
+            "desc": "Simple Questions",
+            "question": [
+                {
+                    "name": "IE Compatiablity？",
+                    "answer": [
+                        "Register Link：https://aichating.com/（Only admin，one company）",
+                        "Login Link：https://aichating.com/（admin and CS）",
+                        "Additionally,normal CS need not to register an acount， only need to add an account to workstation is enough."
+                    ]
+                },
+                {
+                    "name": "How to change super admin's account？",
+                    "answer": [
+                        "Register Link：https://aichating.com/（Only admin，one company）",
+                        "Login Link：https://aichating.com/（admin and CS）",
+                        "Additionally,normal CS need not to register an acount， only need to add an account to workstation is enough."
+                    ]
+                },
+                {
+                    "name": "How to management common reply ？",
+                    "answer": [
+                        "Register Link：https://aichating.com/（Only admin，one company）",
+                        "Login Link：https://aichating.com/（admin and CS）",
+                        "Additionally,normal CS need not to register an acount， only need to add an account to workstation is enough."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Others",
+            "desc": "Other questiions when using AIChat",
+            "question": [
+                {
+                    "name": "How to use blacklist？",
+                    "answer": [
+                        "Register Link：https://aichating.com/（Only admin，one company）",
+                        "Login Link：https://aichating.com/（admin and CS）",
+                        "Additionally,normal CS need not to register an acount， only need to add an account to workstation is enough."
+                    ]
+                },
+                {
+                    "name": "How to Robot Knowledge Base?",
+                    "answer": [
+                        "Register Link：https://aichating.com/（Only admin，one company）",
+                        "Login Link：https://aichating.com/（admin and CS）",
+                        "Additionally,normal CS need not to register an acount， only need to add an account to workstation is enough."
+                    ]
+                },
+                {
+                    "name": "How to manage CS?",
+                    "answer": [
+                        "Register Link：https://aichating.com/（Only admin，one company）",
+                        "Login Link：https://aichating.com/（admin and CS）",
+                        "Additionally,normal CS need not to register an acount， only need to add an account to workstation is enough."
+                    ]
+                }
+            ]
+        }
+    ],
+    "buy": {
+        "header": [
+            "payment",
+            "Thank you very much for choosing to use aiqia customer service system",
+            "We will serve you with sincere investment and solid technology to help your enterprise faster, higher and stronger."
+        ],
+        "combinationTitleOps": [
+            "Basic Edition",
+            "Deluxe Edition"
+        ],
+        "combinationList": [
+            "1 website platform, 5 standby domain names, 1 customer service agent, 10000 questions and answers for robots and all functional robots",
+            "Add a customer service seat",
+            "50000 more robots",
+            "Add a platform (free 5 domain names)",
+            "Add a domain name",
+            "Unlimited platform unlimited seats unlimited domain name",
+            "Quarterly payment"
+        ],
+        "totalAmount": "Total price",
+        "payTitle": "Payment method",
+        "payOps": [
+            "Alipay",
+            "USDT（ERC）",
+            "USDT（TRC）",
+            "E-currency payment "
+        ],
+        "payActions": [
+            "cancel",
+            "Immediate payment"
+        ],
+        "notify": [
+            "No merchant information, please register",
+            "The limit has been reached. Continue to select after payment is available. If you have any questions, please contact customer service"
+        ]
+    },
+    "download": {
+        "header": [
+            "Aiqia customer service",
+            "Focus on overseas / global layout / intelligent customer service / stability and security"
+        ],
+        "card": [
+            {
+                "title": "WIN client",
+                "desc": "edition:4.4.1 2022.08.18",
+                "btn": "download"
+            },
+            {
+                "title": "MAC client",
+                "desc": "edition:4.4.1 2022.08.18",
+                "btn": "download"
+            }
+        ]
+    },
+    "commonFooter": {
+        "title": "Welcome to experience the customer service products of Aicha for free",
+        "desc": "Bid farewell to inefficient collaboration and make customer service work more efficient",
+        "btns": [
+            "Try it now"
+        ]
+    },
+    "notify": {
+        "fail": "Error"
+    },
+    "googleCheck":{
+        "isgoogle":"Google secondary verification",
+        "title":"Google Authenticator",
+        "btns":["previous step","next step","open","copy"],
+        "step1":{
+            "tips":"Please scan the QR code and install Google verifier. If you have already installed it, please go to the next step",
+            "action":"Download verifier",
+            "desc":"I have installed Google searcher"
+        },
+        "step2":{
+            "tips":"Please use Google verifier to scan the QR code below. After success, you will get a 6-digit dual verification code, which changes every 30 seconds.",
+            "action":"Scan QR code",
+            "desc1":"If the code scanning fails, please input the above key to the verifier. You need to set an account, for example: xxx@DigFinex (fill in your mobile phone / email account or your nickname at XXX).",
+            "desc2":"I already have a 6-digit double verification code"
+        },
+        "step3":{
+            "label":"Double verification code",
+            "placeholder":"Please enter the double verification code"
+        }
+    }
+}

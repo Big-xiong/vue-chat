@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>com_nav_ic_refresh</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18,6.0017413 L15.0482125,9 L12.0964251,6.0017413 L14,6.0017413 C13,3 10.1099884,2 8,2 C5.89001159,2 4,2.5 1.93709717,6 L0,6.0017413 C1.043563,3 4.24476118,1.33149434e-15 8,0 C11.7552388,-1.66436792e-15 15,2.5 16,6 L18,6.0017413 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1392.000000, -18.000000)">
+            <g id="分组-14" transform="translate(242.000000, 0.000000)">
+                <g id="com_nav_ic_refresh" transform="translate(1150.000000, 18.000000)">
+                    <rect id="矩形-copy-11" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                    <g id="刷新-(1)" transform="translate(2.000000, 3.000000)">
+                        <g id="路径-3" transform="translate(2.000000, 0.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#5082F4" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <polygon fill="#6ECC94" fill-rule="nonzero" mask="url(#mask-2)" points="15 -1 6.5 10 18.5 11 18.5 4"></polygon>
+                        </g>
+                        <path d="M18,15.0017413 L15.0482125,18 L12.0964251,15.0017413 L14,15.0017413 C13,12 10.1099884,11 8,11 C5.89001159,11 4,11.5 1.93709717,15 L0,15.0017413 C1.043563,12 4.24476118,9 8,9 C11.7552388,9 15,11.5 16,15 L18,15.0017413 Z" id="路径-copy" fill="#5082F4" fill-rule="nonzero" transform="translate(9.000000, 13.500000) scale(-1, -1) translate(-9.000000, -13.500000) "></path>
+                        <path d="" id="路径-2" stroke="#979797" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,453 @@
+{
+    "websiteTitle": "Aichat",
+    "login": "Ký vô.",
+    "register": "ghi",
+    "logout": "hủy",
+    "goHome": "Tới trang web chính thức",
+    "immediateRegister": "Đăng ký ngay",
+    "tenantSite": {
+        "title": "Mẹo",
+        "info": "Nó được đề nghị sử dụng hệ thống đăng nhập máy tính, và địa chỉ đăng nhập là:",
+        "copy": "Rõ",
+        "button": [
+            "hủy",
+            "xác định"
+        ]
+    },
+    "menu": {
+        "about": "khoảng",
+        "home": "trang chủ",
+        "price": "Nguồn:",
+        "download": "tải",
+        "buy": "Mua ngay đi.",
+        "contact": "liên lạc với",
+        "tutorial": "Hướng dẫn Dịch vụ Khách hàng"
+    },
+    "lang": {
+        "cn": "Trung",
+        "us": "AnhName",
+        "vi": "ViệtName",
+        "th": "Thái"
+    },
+    "index": {
+        "banner": [
+            {
+                "title": "Khách hàng Aiqia",
+                "subTitle1": "Hệ thống dịch vụ khách hàng thông minh mới",
+                "tips1": "Tập trung vào nước ngoài, triển khai toàn cầu, phục vụ nhiều doanh nghiệp nước ngoài, và đạt được lời khen ngợi nhất!",
+                "tips2": "Mang bạn: kinh nghiệm sử dụng tiện lợi, an toàn, hiệu quả và ổn định!",
+                "btn": "Kinh nghiệm miễn phí"
+            },
+            {
+                "title": "Tất cả kinh nghiệm cuối cùng",
+                "subTitle1": "Quản lý hoà hợp đa bục, dịch vụ AI có năng lực và thông minh, kinh nghiệm người dùng cực đoan, và thiết lập tương tác tối thiểu",
+                "tips1": "Trên tiêu đề là chúng tôi sẽ cố gắng hết sức để giảm chi phí học tập của người dùng.",
+                "tips2": "Hãy cung cấp một kinh nghiệm hiệu quả và đơn giản!",
+                "btn": "Kinh nghiệm miễn phí"
+            },
+            {
+                "title": "An ninh và ổn định là mục đích",
+                "subTitle1": "Chúng tôi có một đội đặc biệt để đảm bảo an to àn và ổn định hệ thống.",
+                "tips1": "Hoạt động ổn định",
+                "unit": "giờ",
+                "btn": "Kinh nghiệm miễn phí"
+            },
+            {
+                "title": "Quốc tế, bố trí toàn cầu",
+                "subTitle1": "Hệ thống dịch vụ khách hàng AiThanh hỗ trợ nhiều ngôn ngữ và thông tin toàn cầu không có rào chắn!",
+                "btn": "Kinh nghiệm miễn phí"
+            }
+        ],
+        "feature": {
+            "buildInfo": "Chức năng tối cao/ kinh nghiệm cuối",
+            "buildDesc": "Sự sản xuất mới của các phần mềm dịch vụ khách hàng, dịch vụ khách hàng trực tuyến tại các ngôn ngữ khác nhau để giúp các công ty giải quyết các vấn đề giao tiếp, hệ thống cung cấp rất nhiều cách tiếp tân. Những từ phổ biến, truyền hình nhanh, hồi đáp nhanh, nhắc lại tin nhắn, nhanh chóng đáp ứng yêu cầu khách hàng! Bộ phân loại hệ thống hỗ trợ, nhiệm vụ ưu tiên khách hàng, 7* 24! Dịch vụ người máy trực tuyến, tiếp nhận dịch vụ thông minh khách hàng và hỗ trợ dịch vụ chuyển dịch vụ khách hàng.",
+            "simpleInfo": "Trình nền đơn giản/ triển khai nhanh",
+            "simpleDesc": "Bạn chỉ cần vài bước đơn giản để trang web có chức năng phục vụ khách hàng và cung cấp dịch vụ tốt nhất cho các thành viên. Hệ thống này bao gồm nhiều website, có thể phân phối quản lý cùng lúc, nâng cao hiệu quả và giảm chi phí.",
+            "privateInfo": "Tập trung vào sự an toàn và ổn định bên ngoài",
+            "privateDesc": "Đội CDO độc quyền hoạt động độc lập và quản lý CDO cấp cao. Hơn mười lõi phòng vệ xung quanh thế giới nhận ra nó đã được phân phối bảo vệ khỏi các vụ tấn công gây nguy hiểm và làm cho nó hoạt động an to àn và ổn định. Aicha đã phục vụ nhiều công ty và có sự hợp tác sâu sắc để giúp họ phát triển!"
+        },
+        "tip": {
+            "info": "Dùng Aicha có thể làm cho công ty của bạn đạt được gấp đôi thành quả với phân nửa nỗ lực",
+            "desc": "Các giải pháp dịch vụ khách hàng Aicha cung cấp một giải pháp bảo vệ đám mây hoàn to àn. Các công ty có thể chọn cách thích hợp nhất để tiếp cận Aicha dựa trên kích thước của họ, để các công ty có thể trở nên hiệu quả hơn."
+        },
+        "funcDetail": {
+            "chatInfo": "Hoàn hảo kinh nghiệm tiếp đón khách hàng",
+            "chatDesc1": "Khách hàng hỗ trợ việc vận hành thiết bị cuối di động/ app/pc, gửi thông điệp nhanh chóng và ổn định, và dịch vụ khách hàng có thể kết nối đến nhiều bục cùng lúc. Hộp thoại này hỗ trợ việc tải lên nhiều tập tin, ảnh và ảnh động, ảnh chụp nhanh, và việc gửi vài từ nhanh và biểu thức hình ảnh nhanh. Hỗ trợ các dạng cuộc đối thoại như chuyển nhượng, nhóm chat và hỗ trợ kỹ thuật. Nhiều trang ngôn ngữ có thể được chọn để hỗ trợ chuyển đổi chế độ đêm và ngày.",
+            "chatDesc2": "Ảnh có thể được thêm vào thông điệp, và ảnh chụp được dán và gửi đi. Trên điện thoại di động, khách hàng có thể chụp ảnh trong thời gian thực và gửi cho dịch vụ khách hàng. Khi sử dụng dịch vụ khách hàng Aicha, dịch vụ khách hàng có thể gửi trực tiếp tin nhắn và thư mục đến dịch vụ khách hàng.",
+            "manageInfo": "Công nghệ AI dịch vụ khách hàng",
+            "manageDesc1": "Khách hàng Aicha hỗ trợ hệ thống dịch vụ khách hàng thông minh nhất.",
+            "manageDesc2": "Một số lượng lớn mẫu, máy học, hệ thống đối thoại thông minh, hệ thống dịch vụ khách hàng tự động trả lời, dựa trên tính toán từ khoá, đưa ra câu trả lời chính xác nhất, dịch vụ người máy thông minh bắt giữ thông tin, lấy một số lượng lớn các mẫu trả lời, và xây dựng một mô hình cuộc đối thoại chính xác.",
+            "reportInfo": "Chức năng quản lý",
+            "reportDesc1": "Trợ lý nền phục vụ khách hàng Aicha hỗ trợ các quản lý cấp cao để thực hiện các hoạt động khác nhau như nhóm phục vụ khách hàng, phân bổ dịch vụ khách hàng, thanh tra chất lượng dữ liệu khách hàng, câu hỏi lịch sử hộp thoại và thiết lập dịch vụ khách hàng.",
+            "reportDesc2": "Máy phục vụ khách mời tham gia vào hoạt động phục vụ khách hàng, cách ly thông tin và an ninh dữ liệu.",
+            "reportDesc3": "Đánh giá tổng hợp và tiếp tân",
+            "reportDesc4": "Thăm dò địa lý thống kê, tiện lợi và hiệu quả để giúp các công ty thực hiện chân dung thông tin khách hàng và phân tích người dùng",
+            "dataInfo": "An ninh dữ liệu và thao tác ổn định",
+            "dataDesc1": "Nhóm chuyên nghiệp quản lý an ninh dữ liệu và đảm bảo việc phục vụ khách hàng doanh nghiệp ổn định.",
+            "dataDesc2": "Mã nhập thứ hai của Google có thể bật để tăng cường an ninh tài khoản.",
+            "dataDesc3": "Tên quản lý và dịch vụ khách hàng phải đăng nhập riêng để tránh bị mất thông tin khách hàng.",
+            "dataDesc4": "Quản lý danh sách đen để tránh thông tin bất thường.",
+            "dataDesc5": "Toàn bộ quy trình sử dụng hoặc thử nghiệm là bí mật, và không có chương trình của người thứ ba.",
+            "tranInfo1": "Phân tích dữ liệu hoàn hảo",
+            "tranInfo2": "Khách thăm thành khách hàng, và sự biến đổi hiệu quả hơn.",
+            "tranDesc1": "Thông minh phục vụ khách hàng phân tích toàn bộ các chuyến thăm, các cuộc nói chuyện, thông điệp, v.v.",
+            "tranDesc2": "Nắm giữ dữ liệu hoạt động của dịch vụ khách hàng thông minh trong thời gian thực và định lượng khả năng kinh doanh của nhân viên",
+            "tranDesc3": "Kiểm tra địa vị khách và thông tin về khách, và cải thiện tỷ lệ chuyển đổi khách hàng."
+        },
+        "descContent": {
+            "title": "Khách hàng của Kỳ muốn hợp tác với các bạn",
+            "label1": "Công ty phục vụ tích",
+            "label2": "Số đồng bộ dịch vụ khách hàng",
+            "label3": "Số cuộc đối thoại tổng hợp"
+        },
+        "exper": {
+            "title": "Hãy thử ngay lập tức và cảm thấy hiệu quả",
+            "subTitle": "Lời tạm biệt về sự hợp tác không hiệu quả và làm cho dịch vụ khách hàng hiệu quả.",
+            "jkty": "Ngay lập tức",
+            "ckjg": "Xem giá"
+        }
+    },
+    "about": {
+        "header": {
+            "title": "Về aiqia",
+            "text1": "Mở kỷ nguyên của dịch vụ khách hàng thông minh",
+            "text2": "Bố trí toàn cầu quốc tế, giúp tổ chức cất cánh!"
+        },
+        "features": {
+            "title1": "Đội kỹ thuật",
+            "desc1": "Aiqia là một công ty với nhiều nhân viên khoa học và công nghệ có tài năng nghiên cứu và khả năng nghiên cứu nhiều thế giới như Google and apple",
+            "title2": "Hệ thống dịch vụ khách hàng tốt nhất",
+            "desc2": "Hệ thống dịch vụ khách hàng tốt nhất, Hệ thống phục vụ khách hàng Aicha, rất nổi bật trong việc sử dụng hệ thống và quản lý dịch vụ khách hàng.",
+            "title3": "Nền văn hóa vững chắc",
+            "desc3": "Đội Aiqi có một đội hỗ trợ đầy đủ trước và sau khi bán xong. Tập đoàn đã đề nghị khách hàng đầu tiên và kinh nghiệm trước."
+        }
+    },
+    "price": {
+        "title": "Hệ thống dịch vụ khách hàng Kỳ",
+        "slogan": "Thêm cánh bay cho công ty",
+        "edition": "Loại độc quyền cho kinh doanh nước ngoài",
+        "perYear": "/năm",
+        "twoYear": "/hai năm",
+        "method": "Chế độ truy cập nhiều",
+        "kb": "Kiến thức Robot",
+        "multiple": "Quản lý hàng loạt và nhiều ghế",
+        "custom": "Tự chọn",
+        "quick": "Đơn giản và nhanh hoạt động",
+        "safe": "Tập trung vào an ninh và ổn định nước ngoài",
+        "onekey": "Một điểm giải quyết tiếng công của trang web",
+        "method2": "Chế độ truy cập đa dạng, sử dụng giúp đỡ một cách linh hoạt",
+        "immdiatePlugin": "Vào đi.",
+        "edition1": "Cờ bạc",
+        "all": "Phát triển mọi chức năng",
+        "desc": "Không ghế, không bục, không giới hạn",
+        "allList": "Danh sách các chức năng",
+        "functions": [
+            {
+                "title": "Máy phục vụ khách hàng hỗ trợ dịch vụ khách hàng nhiều loại công việc.",
+                "desc": "Tài khoản quản trị hỗ trợ cho công việc phục vụ khách hàng, và dịch vụ khách hàng mở rộng bàn làm việc với một cú nhấp chuột để trò chuyện."
+            },
+            {
+                "title": "Nhóm dịch vụ khách hàng, quản lý tiện lợi và hiệu quả của một đội phục vụ khách hàng lớn.",
+                "desc": "Aicha cung cấp dịch vụ khách hàng một nhóm, và quản trị có thể dễ dàng quản lý một nhóm dịch vụ khách hàng lớn"
+            },
+            {
+                "title": "Kiến thức robot, liên tục cải thiện cơ sở đối thoại",
+                "desc": "Robot Q. một thư viện có thể giúp cuộc đối thoại dịch vụ khách hàng đáp ứng và giao tiếp hiệu quả."
+            },
+            {
+                "title": "Quản lý ngôn ngữ chung để tăng hiệu quả đối thoại",
+                "desc": "Từ phổ biến hiệu quả và giàu có khiến thông tin đối thoại khách hàng chính xác và hiệu quả."
+            },
+            {
+                "title": "Giao dịch và thông điệp, mở vòng thời gian đóng của thông tin",
+                "desc": "Aicha cung cấp thông điệp và quản lý phiên chạy để quản lý hiệu quả thông tin về khách và vấn đề thông điệp"
+            },
+            {
+                "title": "Mở rộng FAQ, công khai trang web chính thức, nâng cao nhắp.",
+                "desc": "Hiển thị vấn đề chung, hiệu chỉnh đĩa, sửa nền, cập nhật trang web chính thức, nâng cao độ nhạy."
+            },
+            {
+                "title": "Thống kê địa phương, chân dung",
+                "desc": "Aicha cung cấp số liệu khách giàu có, quản lý thực tế chân dung khách dưới nền tảng, và làm cho hoạt động của bạn phức tạp hơn"
+            },
+            {
+                "title": "Quản lý đen làm cho khách khỏe mạnh",
+                "desc": "Aicha có một hệ thống đen mạnh để quản lý hiệu quả những vị khách lạ và cải thiện an ninh dữ liệu và an ninh thông tin"
+            }
+        ]
+    },
+    "contact": {
+        "contactus": "liên lạc với",
+        "text1": "Các khách hàng thân mến, các bạn có thể liên lạc với chúng tôi bằng các cách sau đây, và chúng tôi sẽ phục vụ các bạn bằng đầu tư chân thành và công nghệ vững chắc.",
+        "text2": ""
+    },
+    "registerObj": {
+        "register": "Đăng ký",
+        "submitInfo": "Bạn có thể dùng cáp để điền thông tin",
+        "selectArea": "Chọn vùng phục vụ",
+        "domestic": "Máy chủ",
+        "foriegn": "Máy phục vụ lạ",
+        "enterprise": "Tên tầu:",
+        "placeholderE": "Nhập tên công ty",
+        "placeholderM": "Hãy nhập email đăng nhập",
+        "placeholderP": "Hãy nhập mật khẩu đăng nhập",
+        "placeholderV": "Hãy nhập mật khẩu bên phải.",
+        "loginMail": "Hộp thư Đăng nhập",
+        "password": "mật khẩu",
+        "vcode": "Mật khẩu",
+        "slogan": "Công ty hỗ trợ ghi chép",
+        "footerBtn": "Cậu đã có tài khoản rồi, nhập mã vào đi."
+    },
+    "resetPassword": {
+        "title": "đặt lại mật khẩu",
+        "desc": "Xin hãy điền email đăng nhập và mật khẩu để đặt lại mật khẩu.",
+        "btn": "đặt lại mật khẩu",
+        "btns": [
+            "Gửi mã kiểm tra",
+            "Chiêu"
+        ],
+        "label": [
+            "Hộp thư",
+            "Mật khẩu",
+            "mật khẩu",
+            "Mật khẩu trùng"
+        ],
+        "placeholder": [
+            "Hãy nhập địa chỉ email",
+            "Hãy nhập mật mã kiểm tra.",
+            "Nhập mật khẩu đi.",
+            "Xin nhập lại mật khẩu."
+        ]
+    },
+    "retrievePassword": {
+        "title": "Quên mật khẩu",
+        "desc": "Hãy điền vào email đăng nhập và chúng tôi sẽ gửi email kiểm tra",
+        "btn1": "quay",
+        "btn2": "Gửi thư",
+        "btn3": "Liên lạc với khách hàng",
+        "label": [
+            "Hộp thư"
+        ],
+        "placeholder": [
+            "Hãy nhập địa chỉ email"
+        ]
+    },
+    "loginObj": {
+        "welcome": "Chào mừng trở lại.",
+        "business": "Trung tâm Thương mại",
+        "desk": "Chăm sóc khách hàng",
+        "desc": "Đăng nhập để quản lý tài khoản.",
+        "mail": "Tên người dùng hay hộp thư",
+        "password": "mật khẩu",
+        "captcha": "Mật khẩu",
+        "placeholderM": "Hãy nhập tên người dùng hay địa chỉ email",
+        "placeholderP": "Nhập mật khẩu đi.",
+        "loginNow": "Đăng nhập vào cáp.",
+        "regTeam": "Đội đăng ký",
+        "forgetPwd": "Quên mật khẩu?"
+    },
+    "footer": {
+        "links": [
+            {
+                "title": "Các sản phẩm",
+                "item1": "Name"
+            },
+            {
+                "title": "Công ty",
+                "item1": "Về chúng ta"
+            },
+            {
+                "title": "Trợ giúp",
+                "item1": "vấn đề chung"
+            },
+            {
+                "title": "liên lạc với",
+                "item1": "400-0031-322"
+            }
+        ]
+    },
+    "FAQInfo": {
+        "possible": "Câu hỏi anh cần biết",
+        "here": "Tất cả các câu hỏi về Ohio đã đến đây."
+    },
+    "faqObj": {
+        "title": "Câu hỏi anh cần biết",
+        "text": "Mọi câu hỏi về Aicha đều ở đây"
+    },
+    "FAQ": [
+        {
+            "name": "bắt đầu",
+            "desc": "Một vài câu hỏi đơn giản về việc chỉ mua Aicha hoặc cần mua Aicha",
+            "question": [
+                {
+                    "name": "Bằng cách nào để đăng ký aikia?",
+                    "answer": [
+                        "Kết nối biển: https://aichating.com/ (cho người quản lý, chỉ có một công ty cần đăng ký)",
+                        "Liên kết đăng nhập: https://aichating.com/ (cả quản lý lẫn dịch vụ khách hàng có thể dùng nó)",
+                        "Thêm vào đó, dịch vụ khách hàng bình thường trong công ty không cần phải đăng ký một tài khoản riêng, nhưng quản trị cần phải trực tiếp thêm một tài khoản dịch vụ khách hàng vào bàn làm việc của Aicha."
+                    ]
+                },
+                {
+                    "name": "Làm sao đăng nhập vào cáp?",
+                    "answer": [
+                        "Kết nối biển: https://aichating.com/ (cho người quản lý, chỉ có một công ty cần đăng ký)",
+                        "Liên kết đăng nhập: https://aichating.com/ (cả quản lý lẫn dịch vụ khách hàng có thể dùng nó)",
+                        "Thêm vào đó, dịch vụ khách hàng bình thường trong công ty không cần phải đăng ký một tài khoản riêng, nhưng quản trị cần phải trực tiếp thêm một tài khoản dịch vụ khách hàng vào bàn làm việc của Aicha."
+                    ]
+                },
+                {
+                    "name": "Làm sao thêm một tài khoản dịch vụ khách hàng?",
+                    "answer": [
+                        "Kết nối biển: https://aichating.com/ (cho người quản lý, chỉ có một công ty cần đăng ký)",
+                        "Liên kết đăng nhập: https://aichating.com/ (cả quản lý lẫn dịch vụ khách hàng có thể dùng nó)",
+                        "Thêm vào đó, dịch vụ khách hàng bình thường trong công ty không cần phải đăng ký một tài khoản riêng, nhưng quản trị cần phải trực tiếp thêm một tài khoản dịch vụ khách hàng vào bàn làm việc của Aicha."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Vấn đề Bàn làm việc",
+            "desc": "Về sự đơn giản của việc làm bàn giấy",
+            "question": [
+                {
+                    "name": "Nó có tương thích với trình duyệt Iễ không?",
+                    "answer": [
+                        "Kết nối biển: https://aichating.com/ (cho người quản lý, chỉ có một công ty cần đăng ký)",
+                        "Liên kết đăng nhập: https://aichating.com/ (cả quản lý lẫn dịch vụ khách hàng có thể dùng nó)",
+                        "Thêm vào đó, dịch vụ khách hàng bình thường trong công ty không cần phải đăng ký một tài khoản riêng, nhưng quản trị cần phải trực tiếp thêm một tài khoản dịch vụ khách hàng vào bàn làm việc của Aicha."
+                    ]
+                },
+                {
+                    "name": "Làm sao thay đổi tài khoản quản trị siêu?",
+                    "answer": [
+                        "Kết nối biển: https://aichating.com/ (cho người quản lý, chỉ có một công ty cần đăng ký)",
+                        "Liên kết đăng nhập: https://aichating.com/ (cả quản lý lẫn dịch vụ khách hàng có thể dùng nó)",
+                        "Thêm vào đó, dịch vụ khách hàng bình thường trong công ty không cần phải đăng ký một tài khoản riêng, nhưng quản trị cần phải trực tiếp thêm một tài khoản dịch vụ khách hàng vào bàn làm việc của Aicha."
+                    ]
+                },
+                {
+                    "name": "Cách dùng từ phổ biến?",
+                    "answer": [
+                        "Kết nối biển: https://aichating.com/ (cho người quản lý, chỉ có một công ty cần đăng ký)",
+                        "Liên kết đăng nhập: https://aichating.com/ (cả quản lý lẫn dịch vụ khách hàng có thể dùng nó)",
+                        "Thêm vào đó, dịch vụ khách hàng bình thường trong công ty không cần phải đăng ký một tài khoản riêng, nhưng quản trị cần phải trực tiếp thêm một tài khoản dịch vụ khách hàng vào bàn làm việc của Aicha."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Các vấn đề khác",
+            "desc": "Tóm tắt các vấn đề khác trong việc sử dụng sản phẩm cá hổ.",
+            "question": [
+                {
+                    "name": "Cách dùng chức năng danh sách đen?",
+                    "answer": [
+                        "Kết nối biển: https://aichating.com/ (cho người quản lý, chỉ có một công ty cần đăng ký)",
+                        "Liên kết đăng nhập: https://aichating.com/ (cả quản lý lẫn dịch vụ khách hàng có thể dùng nó)",
+                        "Thêm vào đó, dịch vụ khách hàng bình thường trong công ty không cần phải đăng ký một tài khoản riêng, nhưng quản trị cần phải trực tiếp thêm một tài khoản dịch vụ khách hàng vào bàn làm việc của Aicha."
+                    ]
+                },
+                {
+                    "name": "Cách sử dụng kiến thức robot?",
+                    "answer": [
+                        "Kết nối biển: https://aichating.com/ (cho người quản lý, chỉ có một công ty cần đăng ký)",
+                        "Liên kết đăng nhập: https://aichating.com/ (cả quản lý lẫn dịch vụ khách hàng có thể dùng nó)",
+                        "Thêm vào đó, dịch vụ khách hàng bình thường trong công ty không cần phải đăng ký một tài khoản riêng, nhưng quản trị cần phải trực tiếp thêm một tài khoản dịch vụ khách hàng vào bàn làm việc của Aicha."
+                    ]
+                },
+                {
+                    "name": "Quản lý dịch vụ khách hàng?",
+                    "answer": [
+                        "Kết nối biển: https://aichating.com/ (cho người quản lý, chỉ có một công ty cần đăng ký)",
+                        "Liên kết đăng nhập: https://aichating.com/ (cả quản lý lẫn dịch vụ khách hàng có thể dùng nó)",
+                        "Thêm vào đó, dịch vụ khách hàng bình thường trong công ty không cần phải đăng ký một tài khoản riêng, nhưng quản trị cần phải trực tiếp thêm một tài khoản dịch vụ khách hàng vào bàn làm việc của Aicha."
+                    ]
+                }
+            ]
+        }
+    ],
+    "buy": {
+        "header": [
+            "tiền",
+            "Cám ơn rất nhiều vì đã chọn dụng hệ thống phục vụ khách hàng giúp khách hàng.",
+            "Chúng tôi sẽ giúp các bạn bằng đầu tư chân thành và kỹ thuật vững chắc để giúp tổ chức của các bạn nhanh hơn, cao hơn và mạnh hơn."
+        ],
+        "combinationTitleOps": [
+            "Sửa bản chỉnh",
+            "Kiểu sang trọng"
+        ],
+        "combinationList": [
+            "Chương trình 1, 5 Tên miền phục vụ khách hàng 1 câu hỏi và câu trả lời cho robot và mọi robot có chức năng",
+            "Thêm ghế dịch vụ khách hàng",
+            "thêm 50000kg robot",
+            "Thêm một nền tảng (tên miền 5tự do)",
+            "Thêm tên miền",
+            "Không giới hạn chỗ ngồi Không giới hạn tên miền",
+            "Trả công quý"
+        ],
+        "totalAmount": "Giá cả",
+        "payTitle": "Phương pháp thanh toán",
+        "payOps": [
+            "Thanh",
+            "USDT（ERC）",
+            "USDT（TRC）",
+            "Tiền E-run"
+        ],
+        "payActions": [
+            "hủy",
+            "Thanh toán ngay"
+        ],
+        "notify": [
+            "Không có dữ liệu thương gia.",
+            "Đã đến giới hạn. Tiếp tục chọn sau khi thanh to án xong. Nếu có thắc mắc gì, xin hãy liên hệ với dịch vụ khách hàng."
+        ]
+    },
+    "download": {
+        "header": [
+            "Khách hàng Aiqia",
+            "Tập trung vào dịch vụ bên ngoài/ toàn cầu/ Thông minh phục vụ khách hàng"
+        ],
+        "card": [
+            {
+                "title": "Thắng khách",
+                "desc": "bản:4.4.1 2022.08.18",
+                "btn": "tải"
+            },
+            {
+                "title": "Khách hàng Mac",
+                "desc": "bản:4.4.1 2022.08.18",
+                "btn": "tải"
+            }
+        ]
+    },
+    "commonFooter": {
+        "title": "Chào mừng đến với các sản phẩm dịch vụ khách hàng của Aicha miễn phí",
+        "desc": "Lời tạm biệt về sự hợp tác không hiệu quả và làm cho dịch vụ khách hàng hiệu quả.",
+        "btns": [
+            "Thử đi"
+        ]
+    },
+    "notify": {
+        "fail": "hỏng"
+    },
+    "googleCheck":{
+        "isgoogle":"Google secondary verification",
+        "title":"Google Authenaticor",
+        "btns":["Bước lùi","bước kế tiếp","mở","Rõ"],
+        "step1":{
+            "tips":"Làm ơn quét mã QR và cài đặt xác nhận Google. Nếu bạn đã cài đặt nó, hãy đến bước kế tiếp.",
+            "action":"Tải xác nhận",
+            "desc":"Tôi đã lắp tìm kiếm trên Google"
+        },
+        "step2":{
+            "tips":"Hãy dùng hệ thống xác thực Google để quét mã QR bên dưới. Sau khi thành công, bạn sẽ có một mã hai số, mà thay đổi từng 9s.",
+            "action":"Dò mã QR",
+            "desc1":"Nếu máy quét mật mã thất bại, hãy nhập chìa khóa bên trên vào máy kiểm tra. Bạn cần phải đặt một tài khoản, ví dụ: xxx@DigFinex (điền vào tài khoản điện thoại/ email hay biệt danh của bạn ở XXX).",
+            "desc2":"Tôi đã có mã kiểm tra gấp đôi số sáu."
+        },
+        "step3":{
+            "label":"Mật khẩu hai lần",
+            "placeholder":"Hãy nhập mã hai lần kiểm tra"
+        }
+    }
+}

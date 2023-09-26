@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>com_nav_ic_message</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1500.000000, -18.000000)" fill-rule="nonzero">
+            <g id="分组-14" transform="translate(242.000000, 0.000000)">
+                <g id="com_nav_ic_message" transform="translate(1258.000000, 18.000000)">
+                    <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                    <g id="分组-7" transform="translate(3.000000, 2.000000)">
+                        <path d="M8.97522329,1.51665425 C5.66151479,1.51665425 2.97522329,4.20294575 2.97522329,7.51665425 L2.97522329,12.8855893 L1.16924565,15.0000004 L16.8072451,15.0000004 L14.9752233,12.890236 L14.9752233,7.51665425 C14.9752233,4.20294575 12.2889318,1.51665425 8.97522329,1.51665425 Z" id="矩形" stroke="#5082F4" stroke-width="2"></path>
+                        <path d="M5,18 L7.14154691,18 C7.48735633,18.5978014 8.13370016,19 8.87398251,19 C9.61426487,19 10.2606087,18.5978014 10.6064181,18 L12.747965,18 C12.3039222,19.7252272 10.7378219,21 8.87398251,21 C7.01014309,21 5.44404279,19.7252272 5,18 Z" id="合并形状" fill="#6ECC94"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

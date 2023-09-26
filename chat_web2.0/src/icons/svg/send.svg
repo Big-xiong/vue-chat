@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>set_btn_ic_alter</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="客服工作台" transform="translate(-1814.000000, -686.000000)">
+            <g id="分组-6" transform="translate(1804.000000, 679.000000)">
+                <g id="分组-8" transform="translate(10.000000, 7.000000)">
+                    <g id="分组-2" transform="translate(3.000000, 3.000000)">
+                        <path d="M1.11946304,4 L0.122764755,3.00330171 C0.0215073964,2.91517564 -0.021605849,2.7807688 0.010395495,2.65298716 C0.042396839,2.52520553 0.144388119,2.42451188 0.276222958,2.39054182 L9.5321362,0.0119715311 C9.66155761,-0.0210522641 9.79942336,0.0153684195 9.89324388,0.107367147 C9.98706441,0.199365874 10.0224034,0.332786693 9.98580632,0.456832339 L7.52004593,8.73985359 C7.48469182,8.8589592 7.38804416,8.95207025 7.26439421,8.9861503 C7.14074427,9.02023035 7.00758894,8.99045696 6.91217267,8.90739392 L5.53770292,7.5" id="路径" stroke="#6ECC94" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <polyline id="路径-2" stroke="#6ECC94" stroke-width="2" stroke-linecap="round" fill-rule="nonzero" points="2 9 2.83074168 6.5 5.76917141 4"></polyline>
+                        <path d="" id="路径-3" stroke="#979797" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

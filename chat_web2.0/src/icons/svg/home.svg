@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>left_list_ic_home</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-24.000000, -74.000000)">
+            <g id="分组-17">
+                <g id="left_list_ic_home" transform="translate(24.000000, 74.000000)">
+                    <rect id="矩形" opacity="0.213378906" x="0" y="0" width="20" height="20"></rect>
+                    <path d="M17.3319311,2.33290129 L15.6877412,5.31128857 C15.5633762,5.31128857 15.4244871,5.31128857 15.2710737,5.31128857 C15.2710737,5.31128857 14.8821854,5.31128857 14.1044087,5.31128857 L13.6877412,5.31128857 L13.6877412,2.33290129 C13.8121062,2.33290129 13.9509954,2.33290129 14.1044087,2.33290129 C14.1044087,2.33290129 14.4932971,2.33290129 15.2710737,2.33290129 C15.4244871,2.33290129 16.1114395,2.33290129 17.3319311,2.33290129 Z" id="Vector" fill="#5082F4" opacity="0.5" transform="translate(15.509836, 3.822095) rotate(90.000000) translate(-15.509836, -3.822095) "></path>
+                    <path d="M12,19 L12,14 L8,14 L8,19 L3,19 C2.44771525,19 2,18.5522847 2,18 L2,8.89635127 C2,8.19113051 2.37140849,7.53803393 2.97749722,7.17748883 L10,3 L17.0225028,7.17748883 C17.6285915,7.53803393 18,8.19113051 18,8.89635127 L18,18 C18,18.5522847 17.5522847,19 17,19 L12,19 Z" id="合并形状" fill="#5082F4" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>visitors_ic_editor@2x</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="客服工作台_增加备注" transform="translate(-290.000000, -314.000000)">
+            <g id="visitors_ic_editor" transform="translate(290.000000, 314.000000)">
+                <circle id="椭圆形" fill="#72798C" opacity="0.5" cx="8" cy="8" r="8"></circle>
+                <path d="M10,7.65132743 L8.34934498,6 L4,10.3486726 L4,12 L5.65065502,12 L10,7.65132743 Z M11.9178052,6.01690048 L10.9108288,7 L9,5.12971311 L10.0069764,4.14661359 C10.099457,4.05286826 10.2263273,4 10.3588116,4 C10.4912958,4 10.6181661,4.05286826 10.7106467,4.14661359 L11.9238713,5.34551544 C12.0253762,5.56435863 12.0253762,5.81604082 11.9238713,6.03488401 L11.9178052,6.01690048 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

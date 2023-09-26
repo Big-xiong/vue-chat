@@ -1,0 +1,179 @@
+@font-face {
+    font-family: "iconfont";
+    /* Project id 2664399 */
+    src: url('/font/iconfont.woff2?t=1629016493341') format('woff2'),
+        url('/font/iconfont.woff?t=1629016493341') format('woff'),
+        url('/font/iconfont.ttf?t=1629016493341') format('truetype');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-spread-left:before {
+    content: "\e61a";
+}
+
+.icon-shrink-right:before {
+    content: "\e619";
+}
+
+.icon-nodata:before {
+    content: "\e729";
+}
+
+.icon-users:before {
+    content: "\e61b";
+}
+
+.icon-praise:before {
+    content: "\e618";
+}
+
+.icon-file-download:before {
+    content: "\e615";
+}
+
+.icon-sound-off:before {
+    content: "\e71b";
+}
+
+.icon-close:before {
+    content: "\e616";
+}
+
+.icon-email:before {
+    content: "\e675";
+}
+
+.icon-skype:before {
+    content: "\e707";
+}
+
+.icon-folder:before {
+    content: "\e7c2";
+}
+
+.icon-download:before {
+    content: "\e630";
+}
+
+.icon-speaker:before {
+    content: "\e65e";
+}
+
+.icon-friends:before {
+    content: "\e60b";
+}
+
+.icon-about:before {
+    content: "\e640";
+}
+
+.icon-list:before {
+    content: "\e60c";
+}
+
+.icon-session:before {
+    content: "\e60d";
+}
+
+.icon-release:before {
+    content: "\e60e";
+}
+
+.icon-face-smile:before {
+    content: "\e60f";
+}
+
+.icon-mike:before {
+    content: "\e610";
+}
+
+.icon-picture:before {
+    content: "\e611";
+}
+
+.icon-video:before {
+    content: "\e612";
+}
+
+.icon-form:before {
+    content: "\e613";
+}
+
+.icon-senior:before {
+    content: "\e60a";
+}
+
+.icon-recovery:before {
+    content: "\e6c0";
+}
+
+.icon-app:before {
+    content: "\e608";
+}
+
+.icon-headset:before {
+    content: "\e607";
+}
+
+.icon-survey:before {
+    content: "\e614";
+}
+
+.icon-file-b:before {
+    content: "\e606";
+}
+
+.icon-chat:before {
+    content: "\ea51";
+}
+
+.icon-dialogue:before {
+    content: "\e605";
+}
+
+.icon-auz:before {
+    content: "\e604";
+}
+
+.icon-user:before {
+    content: "\e699";
+}
+
+.icon-component:before {
+    content: "\e603";
+}
+
+.icon-home1:before {
+    content: "\e609";
+}
+
+.icon-notice:before {
+    content: "\e68c";
+}
+
+.icon-refresh:before {
+    content: "\e602";
+}
+
+.icon-website:before {
+    content: "\e601";
+}
+
+.icon-screen-restore:before {
+    content: "\e600";
+}
+
+.icon-fullscreen:before {
+    content: "\e61e";
+}
+
+.icon-more:before {
+    content: "\e617";
+}

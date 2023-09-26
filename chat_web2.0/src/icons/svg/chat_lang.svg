@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>workbench_ic_language_sel@2x</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="客服工作台" transform="translate(-1466.000000, -918.000000)">
+            <g id="workbench_ic_language" transform="translate(1466.000000, 918.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <g id="编组" transform="translate(4.000000, 3.000000)" fill="#5082F4">
+                    <path d="M10,4 C11.6568542,4 13,5.34314575 13,7 L13,14 C13,15.6568542 11.6568542,17 10,17 L3,17 C1.34314575,17 2.02906125e-16,15.6568542 0,14 L0,7 C-2.02906125e-16,5.34314575 1.34314575,4 3,4 L10,4 Z M7.2979021,7 L5.7020979,7 L2.37482517,14 L4,14 L5,12 L8,12 L8.87482517,14 L10.5,14 L7.2979021,7 Z M6.5,8.71428571 L7.5,11 L5.5,11 L6.5,8.71428571 Z" id="形状结合" fill-rule="nonzero"></path>
+                    <path d="M11,0 C14.3137085,-6.08718376e-16 17,2.6862915 17,6 L17,13 L15,13 L15,6 C15,3.790861 13.209139,2 11,2 L4,2 L4,0 L11,0 Z" id="形状结合" fill-rule="nonzero"></path>
+                    <circle id="椭圆形" cx="4" cy="1" r="1"></circle>
+                    <circle id="椭圆形备份" cx="16" cy="13" r="1"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
